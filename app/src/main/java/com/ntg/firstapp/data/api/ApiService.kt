@@ -1,5 +1,6 @@
-package com.ntg.firstapp
+package com.ntg.firstapp.data.api
 
+import com.ntg.firstapp.data.model.Post
 import retrofit2.Call
 import retrofit2.http.Body
 import retrofit2.http.GET
