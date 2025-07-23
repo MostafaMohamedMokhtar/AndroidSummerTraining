@@ -1,4 +1,4 @@
-package com.ntg.firstapp
+package com.ntg.firstapp.data.model
 
 data class Post(
     val id: Int? = null,
